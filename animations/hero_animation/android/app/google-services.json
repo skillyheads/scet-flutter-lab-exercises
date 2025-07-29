@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196355610623",
+    "project_id": "scetflutter",
+    "storage_bucket": "scetflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196355610623:android:b0c6edbab8bccf20c179ca",
+        "android_client_info": {
+          "package_name": "com.example.hero_animation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzSYOIZGjOMzG77Hfelya7xshnOa7c9Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
